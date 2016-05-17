@@ -5,6 +5,9 @@ Notice:
 So,if you open two Login window,and then simulate chatting between two people,anyone can only receive the messages sended by others util he(she) send one message.This means,if one people only listen,but not speak anything,is not feasible.
 
 Usage:
+	Add one variable to your environment,which value is your working copy:
+		add this line to the end of ~/.bashrc:
+			export PYTHONPATH = absolute path of your working copy
 	Change into 'Server' directory and then run the following command:
 		python server.js
 	Then come to 'View' directory,and just initial 'LoginView':
