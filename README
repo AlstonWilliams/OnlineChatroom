@@ -2,7 +2,7 @@ Notice:
 	This is a chatroom which supports several people chatting at the same time.
 	This project is so simple that maybe only suitable for beginners who just start learning python.
 	In our code,what you can see is,when users send their first messages to server,they register them in server.I mean,users will not be registered when they click the button named 'StartChatting'.
-So,if you open two Login window,and then simulate chatting between two people,anyone can only receive the messages sended by others util he(she) send one message.This means,if one people only listen,but not speak anything,is not feasible.
+	So,if you open two Login window,and then simulate chatting between two people,anyone can only receive the messages sended by others util he(she) send one message.This means,if one people only listen,but not speak anything,is not feasible.
 
 Usage:
 	Add one variable to your environment,which value is your working copy:
